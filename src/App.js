@@ -1,9 +1,10 @@
-import Counter from "./Counter";
+import AppTodo from "./Apptodo";
+
 
 function App() {
   return (
     <div className="App">
-     <Counter/>
+      <AppTodo/>
     </div>
   );
 }
