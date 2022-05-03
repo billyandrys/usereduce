@@ -1,10 +1,9 @@
-import AppTodo from "./Apptodo";
-
+import AppProducto from "./AppProducto";
 
 function App() {
   return (
     <div className="App">
-      <AppTodo/>
+      <AppProducto/>
     </div>
   );
 }
